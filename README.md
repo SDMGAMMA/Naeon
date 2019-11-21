@@ -1,0 +1,2 @@
+# Naeon
+This was my second team project made in Blender where I had to work with people that study cyber security to make a multiplayer game. My contributions were the player and the arena. It is recomended to start up NaeonGameDevelopment as it is the single player version and the multiplayer version completely changed the player. My team mates were Alexander Franke, Yusuf Yusufade and Jimmy Wang
